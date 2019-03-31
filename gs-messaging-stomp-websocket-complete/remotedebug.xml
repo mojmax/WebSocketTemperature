@@ -5,7 +5,7 @@
 	<property name="raspberryfolder" value="~" />
 
 	<property name="username" value="pi" />
-	<property name="password" value="attejom" />
+	<property name="password" value="pswd" />
 
 	<target name="remotedebug">
 		<first id="jars">
